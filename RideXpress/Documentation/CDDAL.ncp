@@ -1,0 +1,40 @@
+<Project>
+  <Name>DAL</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>DAL</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>ReportDAL</Name>
+        <Access>Public</Access>
+        <Location left="18" top="15" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">string _connectionString</Member>
+        <Member type="Method">public void ReportDAL()</Member>
+        <Member type="Method">public List GetAllReports()</Member>
+        <Member type="Method">public ReportViewModel GetReportByID()</Member>
+        <Member type="Method">public int EditReport()</Member>
+        <Member type="Method">public int AddReport()</Member>
+        <Member type="Method">public int DeleteReport()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>CarDAL</Name>
+        <Access>Public</Access>
+        <Location left="229" top="16" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">private string _connectionString</Member>
+        <Member type="Method">public void CarDAL()</Member>
+        <Member type="Method">public List GetCarInventory()</Member>
+        <Member type="Method">public int GetCarByID()</Member>
+        <Member type="Method">public int EditCar()</Member>
+        <Member type="Method">public int AddCar()</Member>
+        <Member type="Method">public int DeleteCar()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Relationships />
+  </ProjectItem>
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\David\Documents\Visual Studio 2015\Projects\Revature\RideXpress\RideXpress.BLL\bin\Release\RideXpress.BLL.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Revature\RideXpress\RideXpress.BLL\bin\Release\RideXpress.BLL.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Revature\RideXpress\RideXpress.BLL\bin\Release\RideXpress.DAL.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Revature\RideXpress\RideXpress.BLL\bin\Release\RideXpress.Models.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Revature\RideXpress\RideXpress.BLL\bin\Release\RideXpress.DAL.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Revature\RideXpress\RideXpress.BLL\bin\Release\RideXpress.Models.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Revature\RideXpress\RideXpress.BLL\obj\Release\RideXpress.BLL.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\Revature\RideXpress\RideXpress.BLL\obj\Release\RideXpress.BLL.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Revature\RideXpress\RideXpress.BLL\obj\Release\RideXpress.BLL.pdb

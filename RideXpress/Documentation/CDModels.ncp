@@ -1,0 +1,48 @@
+<Project>
+  <Name>Untitled</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>Untitled</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>CarViewModel</Name>
+        <Access>Public</Access>
+        <Location left="41" top="22" />
+        <Size width="162" height="298" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int CarID</Member>
+        <Member type="Field">int Name</Member>
+        <Member type="Field">int Make</Member>
+        <Member type="Field">int Model</Member>
+        <Member type="Field">int Trim</Member>
+        <Member type="Field">int Year</Member>
+        <Member type="Field">int Description</Member>
+        <Member type="Field">int CityMPG</Member>
+        <Member type="Field">int HighwayMPG</Member>
+        <Member type="Field">int IsAutomatic</Member>
+        <Member type="Field">int HourlyRate</Member>
+        <Member type="Method">public string AutomaticDisplay()</Member>
+        <Member type="Method">public double DailyRate()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>ReportViewModel</Name>
+        <Access>Public</Access>
+        <Location left="252" top="21" />
+        <Size width="162" height="230" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int ReportID</Member>
+        <Member type="Field">int CarID</Member>
+        <Member type="Field">DateTime DateOfIncident</Member>
+        <Member type="Field">string ReportName</Member>
+        <Member type="Field">string ReportDescription</Member>
+        <Member type="Field">string DateOfReport</Member>
+        <Member type="Field">DateTime DateOfReport</Member>
+        <Member type="Method">public DateTime IncidentDisplay()</Member>
+        <Member type="Method">public DateTime ReportDisplay()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Relationships />
+  </ProjectItem>
+</Project>
